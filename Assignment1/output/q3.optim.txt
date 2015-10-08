@@ -1,0 +1,16 @@
+Type, OuterLoop, Seconds, Microseconds, FilterLength, DataLength, Threads 
+Parallel, Collapse, 40, 827528, 512, 33554432, 1
+Parallel, Collapse, 20, 404825, 512, 33554432, 2
+Parallel, Collapse, 10, 203166, 512, 33554432, 4
+Parallel, Collapse, 9, 786062, 512, 33554432, 8
+Parallel, Collapse, 9, 754987, 512, 33554432, 16
+Parallel, Collapse, 2, 545466, 512, 2097152, 1
+Parallel, Collapse, 2, 542568, 512, 4194304, 2
+Parallel, Collapse, 2, 542299, 512, 8388608, 4
+Parallel, Collapse, 4, 834009, 512, 16777216, 8
+Parallel, Collapse, 9, 632049, 512, 33554432, 16
+Parallel, Collapse, 40, 652415, 512, 33554432, 1
+Parallel, Collapse, 20, 328945, 512, 33554432, 2
+Parallel, Collapse, 11, 12515, 512, 33554432, 4
+Parallel, Collapse, 9, 665077, 512, 33554432, 8
+Parallel, Collapse, 9, 658338, 512, 33554432, 16

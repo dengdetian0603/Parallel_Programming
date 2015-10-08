@@ -1,0 +1,5 @@
+1. In the source code directory, use command 'make' to compile the code.
+2. Use command './filter "all" ' to run all tasks together. Tasks can be executed individually by using arguments: "serial", "speedup", "scaleup", "optim".
+3. Results can be saved to text file by using command './filter "all" > results.txt'.
+4. Use command 'make clean' to clean up.
+5. Use the saved text file to make plots and generate reports.

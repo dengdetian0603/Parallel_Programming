@@ -1,0 +1,5 @@
+Final elapsed time: 4574
+Final elapsed time: 4658
+Final elapsed time: 4843
+Final elapsed time: 6561
+Final elapsed time: 9345

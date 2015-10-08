@@ -1,0 +1,11 @@
+Type, OuterLoop, Seconds, Microseconds, FilterLength, DataLength, Threads 
+Parallel, Filter, 41, 622813, 512, 33554432, 1
+Parallel, Data, 39, 802479, 512, 33554432, 1
+Parallel, Filter, 20, 762656, 512, 33554432, 2
+Parallel, Data, 19, 896398, 512, 33554432, 2
+Parallel, Filter, 10, 378851, 512, 33554432, 4
+Parallel, Data, 9, 951241, 512, 33554432, 4
+Parallel, Filter, 10, 410219, 512, 33554432, 8
+Parallel, Data, 10, 214597, 512, 33554432, 8
+Parallel, Filter, 10, 429708, 512, 33554432, 16
+Parallel, Data, 10, 235878, 512, 33554432, 16

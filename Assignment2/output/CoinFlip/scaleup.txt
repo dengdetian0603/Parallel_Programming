@@ -1,0 +1,32 @@
+500013378 heads in 1000000000 coin tosses.
+Elapsed time: 11300ms
+1000023108 heads in 2000000000 coin tosses.
+Elapsed time: 11306ms
+1499968704 heads in 3000000000 coin tosses.
+Elapsed time: 11307ms
+2000025749 heads in 4000000000 coin tosses.
+Elapsed time: 11309ms
+2499979905 heads in 5000000000 coin tosses.
+Elapsed time: 11909ms
+2999981172 heads in 6000000000 coin tosses.
+Elapsed time: 11312ms
+3499967347 heads in 7000000000 coin tosses.
+Elapsed time: 11315ms
+4000041758 heads in 8000000000 coin tosses.
+Elapsed time: 11420ms
+4500035849 heads in 9000000000 coin tosses.
+Elapsed time: 12937ms
+5000007860 heads in 10000000000 coin tosses.
+Elapsed time: 13448ms
+5499986913 heads in 11000000000 coin tosses.
+Elapsed time: 14257ms
+5999969448 heads in 12000000000 coin tosses.
+Elapsed time: 13463ms
+6499985863 heads in 13000000000 coin tosses.
+Elapsed time: 13766ms
+6999899490 heads in 14000000000 coin tosses.
+Elapsed time: 13785ms
+7500035809 heads in 15000000000 coin tosses.
+Elapsed time: 13808ms
+7999927367 heads in 16000000000 coin tosses.
+Elapsed time: 13815ms

@@ -1,0 +1,224 @@
+Generated secret key: 507136
+Thread 0 Searched key number 0 at 118 milliseconds.
+Thread 0 Searched key number 100000 at 911 milliseconds.
+Thread 0 Searched key number 200000 at 1316 milliseconds.
+Thread 0 Searched key number 300000 at 1716 milliseconds.
+Thread 0 Searched key number 400000 at 2113 milliseconds.
+Thread 0 Searched key number 500000 at 2510 milliseconds.
+Thread 0 Found decrypt key 507136 producing message: Johns Hopkins afraid of the big bad wolf? at 2543 milliseconds.
+Thread 0 Searched key number 600000 at 2914 milliseconds.
+Thread 0 Searched key number 700000 at 3304 milliseconds.
+Thread 0 Searched key number 800000 at 3696 milliseconds.
+Thread 0 Searched key number 900000 at 4081 milliseconds.
+Thread 0 Searched key number 1000000 at 4465 milliseconds.
+Final elapsed time: 4651
+Generated secret key: 40081
+Thread 0 Searched key number 0 at 43 milliseconds.
+Thread 0 Found decrypt key 40081 producing message: Johns Hopkins afraid of the big bad wolf? at 498 milliseconds.
+Thread 1 Searched key number 600000 at 689 milliseconds.
+Thread 0 Searched key number 100000 at 773 milliseconds.
+Thread 1 Searched key number 700000 at 1149 milliseconds.
+Thread 0 Searched key number 200000 at 1229 milliseconds.
+Thread 1 Searched key number 800000 at 1595 milliseconds.
+Thread 0 Searched key number 300000 at 1680 milliseconds.
+Thread 1 Searched key number 900000 at 2053 milliseconds.
+Thread 0 Searched key number 400000 at 2126 milliseconds.
+Thread 1 Searched key number 1000000 at 2489 milliseconds.
+Thread 0 Searched key number 500000 at 2563 milliseconds.
+Final elapsed time: 2697
+Generated secret key: 470379
+Thread 0 Searched key number 0 at 43 milliseconds.
+Thread 2 Searched key number 700000 at 126 milliseconds.
+Thread 1 Searched key number 400000 at 473 milliseconds.
+Thread 0 Searched key number 100000 at 691 milliseconds.
+Thread 2 Searched key number 800000 at 743 milliseconds.
+Thread 1 Found decrypt key 470379 producing message: Johns Hopkins afraid of the big bad wolf? at 785 milliseconds.
+Thread 1 Searched key number 500000 at 920 milliseconds.
+Thread 0 Searched key number 200000 at 1134 milliseconds.
+Thread 2 Searched key number 900000 at 1194 milliseconds.
+Thread 1 Searched key number 600000 at 1361 milliseconds.
+Thread 0 Searched key number 300000 at 1582 milliseconds.
+Thread 2 Searched key number 1000000 at 1691 milliseconds.
+Final elapsed time: 1883
+Generated secret key: 13836
+Thread 0 Searched key number 0 at 43 milliseconds.
+Thread 3 Searched key number 800000 at 281 milliseconds.
+Thread 0 Found decrypt key 13836 producing message: Johns Hopkins afraid of the big bad wolf? at 281 milliseconds.
+Thread 1 Searched key number 300000 at 392 milliseconds.
+Thread 2 Searched key number 600000 at 619 milliseconds.
+Thread 0 Searched key number 100000 at 669 milliseconds.
+Thread 3 Searched key number 900000 at 730 milliseconds.
+Thread 1 Searched key number 400000 at 830 milliseconds.
+Thread 2 Searched key number 700000 at 1060 milliseconds.
+Thread 1 Searched key number 500000 at 1263 milliseconds.
+Thread 0 Searched key number 200000 at 1362 milliseconds.
+Thread 3 Searched key number 1000000 at 1466 milliseconds.
+Final elapsed time: 1817
+Generated secret key: 302051
+Thread 0 Searched key number 0 at 43 milliseconds.
+Thread 4 Searched key number 900000 at 492 milliseconds.
+Thread 3 Searched key number 700000 at 609 milliseconds.
+Thread 2 Searched key number 500000 at 642 milliseconds.
+Thread 0 Searched key number 100000 at 675 milliseconds.
+Thread 1 Searched key number 300000 at 698 milliseconds.
+Thread 1 Found decrypt key 302051 producing message: Johns Hopkins afraid of the big bad wolf? at 707 milliseconds.
+Thread 4 Searched key number 1000000 at 965 milliseconds.
+Thread 3 Searched key number 800000 at 1083 milliseconds.
+Thread 0 Searched key number 200000 at 1148 milliseconds.
+Thread 2 Searched key number 600000 at 1153 milliseconds.
+Thread 1 Searched key number 400000 at 1170 milliseconds.
+Final elapsed time: 1274
+Generated secret key: 550048
+Thread 0 Searched key number 0 at 44 milliseconds.
+Thread 4 Searched key number 700000 at 115 milliseconds.
+Thread 1 Searched key number 200000 at 349 milliseconds.
+Thread 3 Found decrypt key 550048 producing message: Johns Hopkins afraid of the big bad wolf? at 360 milliseconds.
+Thread 5 Searched key number 900000 at 367 milliseconds.
+Thread 2 Searched key number 400000 at 817 milliseconds.
+Thread 3 Searched key number 600000 at 1099 milliseconds.
+Thread 0 Searched key number 100000 at 1728 milliseconds.
+Thread 4 Searched key number 800000 at 1749 milliseconds.
+Thread 1 Searched key number 300000 at 1802 milliseconds.
+Thread 5 Searched key number 1000000 at 1817 milliseconds.
+Thread 2 Searched key number 500000 at 2284 milliseconds.
+Final elapsed time: 2752
+Generated secret key: 669670
+Thread 0 Searched key number 0 at 44 milliseconds.
+Thread 2 Searched key number 300000 at 94 milliseconds.
+Thread 4 Searched key number 600000 at 103 milliseconds.
+Thread 6 Searched key number 900000 at 122 milliseconds.
+Thread 3 Searched key number 500000 at 446 milliseconds.
+Thread 5 Searched key number 800000 at 451 milliseconds.
+Thread 1 Searched key number 200000 at 469 milliseconds.
+Thread 4 Found decrypt key 669670 producing message: Johns Hopkins afraid of the big bad wolf? at 560 milliseconds.
+Thread 4 Searched key number 700000 at 723 milliseconds.
+Thread 6 Searched key number 1000000 at 731 milliseconds.
+Thread 0 Searched key number 100000 at 1103 milliseconds.
+Thread 2 Searched key number 400000 at 1105 milliseconds.
+Final elapsed time: 1478
+Generated secret key: 1014500
+Thread 0 Searched key number 0 at 45 milliseconds.
+Thread 3 Searched key number 400000 at 243 milliseconds.
+Thread 6 Searched key number 800000 at 298 milliseconds.
+Thread 5 Searched key number 700000 at 486 milliseconds.
+Thread 2 Searched key number 300000 at 500 milliseconds.
+Thread 4 Searched key number 600000 at 676 milliseconds.
+Thread 1 Searched key number 200000 at 767 milliseconds.
+Thread 0 Searched key number 100000 at 821 milliseconds.
+Thread 7 Searched key number 1000000 at 850 milliseconds.
+Thread 3 Searched key number 500000 at 874 milliseconds.
+Thread 6 Searched key number 900000 at 911 milliseconds.
+Thread 7 Found decrypt key 1014500 producing message: Johns Hopkins afraid of the big bad wolf? at 939 milliseconds.
+Final elapsed time: 1122
+Generated secret key: 353339
+Thread 0 Searched key number 0 at 43 milliseconds.
+Thread 6 Searched key number 700000 at 118 milliseconds.
+Thread 3 Found decrypt key 353339 producing message: Johns Hopkins afraid of the big bad wolf? at 224 milliseconds.
+Thread 5 Searched key number 600000 at 297 milliseconds.
+Thread 4 Searched key number 500000 at 380 milliseconds.
+Thread 3 Searched key number 400000 at 646 milliseconds.
+Thread 1 Searched key number 200000 at 673 milliseconds.
+Thread 7 Searched key number 900000 at 677 milliseconds.
+Thread 6 Searched key number 800000 at 703 milliseconds.
+Thread 2 Searched key number 300000 at 705 milliseconds.
+Thread 8 Searched key number 1000000 at 798 milliseconds.
+Thread 0 Searched key number 100000 at 894 milliseconds.
+Final elapsed time: 1180
+Generated secret key: 364371
+Thread 0 Searched key number 0 at 44 milliseconds.
+Thread 3 Found decrypt key 364371 producing message: Johns Hopkins afraid of the big bad wolf? at 517 milliseconds.
+Thread 9 Searched key number 1000000 at 550 milliseconds.
+Thread 8 Searched key number 900000 at 581 milliseconds.
+Thread 4 Searched key number 500000 at 629 milliseconds.
+Thread 5 Searched key number 600000 at 636 milliseconds.
+Thread 3 Searched key number 400000 at 713 milliseconds.
+Thread 0 Searched key number 100000 at 753 milliseconds.
+Thread 7 Searched key number 800000 at 789 milliseconds.
+Thread 6 Searched key number 700000 at 825 milliseconds.
+Thread 2 Searched key number 300000 at 1018 milliseconds.
+Thread 1 Searched key number 200000 at 1057 milliseconds.
+Final elapsed time: 1144
+Generated secret key: 270603
+Thread 0 Searched key number 0 at 44 milliseconds.
+Thread 1 Searched key number 100000 at 290 milliseconds.
+Thread 2 Searched key number 200000 at 328 milliseconds.
+Thread 3 Searched key number 300000 at 381 milliseconds.
+Thread 4 Searched key number 400000 at 430 milliseconds.
+Thread 7 Searched key number 700000 at 458 milliseconds.
+Thread 5 Searched key number 500000 at 491 milliseconds.
+Thread 6 Searched key number 600000 at 506 milliseconds.
+Thread 9 Searched key number 900000 at 569 milliseconds.
+Thread 8 Searched key number 800000 at 602 milliseconds.
+Thread 10 Searched key number 1000000 at 662 milliseconds.
+Thread 2 Found decrypt key 270603 producing message: Johns Hopkins afraid of the big bad wolf? at 979 milliseconds.
+Final elapsed time: 1122
+Generated secret key: 982902
+Thread 0 Searched key number 0 at 44 milliseconds.
+Thread 8 Searched key number 700000 at 147 milliseconds.
+Thread 1 Searched key number 100000 at 402 milliseconds.
+Thread 9 Searched key number 800000 at 413 milliseconds.
+Thread 11 Found decrypt key 982902 producing message: Johns Hopkins afraid of the big bad wolf? at 419 milliseconds.
+Thread 2 Searched key number 200000 at 554 milliseconds.
+Thread 10 Searched key number 900000 at 566 milliseconds.
+Thread 11 Searched key number 1000000 at 622 milliseconds.
+Thread 3 Searched key number 300000 at 625 milliseconds.
+Thread 4 Searched key number 400000 at 863 milliseconds.
+Thread 6 Searched key number 600000 at 889 milliseconds.
+Thread 5 Searched key number 500000 at 935 milliseconds.
+Final elapsed time: 1234
+Generated secret key: 488413
+Thread 0 Searched key number 0 at 46 milliseconds.
+Thread 6 Found decrypt key 488413 producing message: Johns Hopkins afraid of the big bad wolf? at 297 milliseconds.
+Thread 11 Searched key number 900000 at 397 milliseconds.
+Thread 6 Searched key number 500000 at 422 milliseconds.
+Thread 1 Searched key number 100000 at 459 milliseconds.
+Thread 7 Searched key number 600000 at 578 milliseconds.
+Thread 12 Searched key number 1000000 at 583 milliseconds.
+Thread 2 Searched key number 200000 at 642 milliseconds.
+Thread 8 Searched key number 700000 at 766 milliseconds.
+Thread 9 Searched key number 800000 at 817 milliseconds.
+Thread 3 Searched key number 300000 at 827 milliseconds.
+Thread 4 Searched key number 400000 at 995 milliseconds.
+Final elapsed time: 1023
+Generated secret key: 1026381
+Thread 0 Searched key number 0 at 45 milliseconds.
+Thread 4 Searched key number 300000 at 105 milliseconds.
+Thread 8 Searched key number 600000 at 138 milliseconds.
+Thread 12 Searched key number 900000 at 164 milliseconds.
+Thread 9 Searched key number 700000 at 499 milliseconds.
+Thread 1 Searched key number 100000 at 500 milliseconds.
+Thread 5 Searched key number 400000 at 502 milliseconds.
+Thread 13 Searched key number 1000000 at 518 milliseconds.
+Thread 2 Searched key number 200000 at 629 milliseconds.
+Thread 13 Found decrypt key 1026381 producing message: Johns Hopkins afraid of the big bad wolf? at 696 milliseconds.
+Thread 10 Searched key number 800000 at 717 milliseconds.
+Thread 6 Searched key number 500000 at 737 milliseconds.
+Final elapsed time: 930
+Generated secret key: 9559
+Thread 0 Searched key number 0 at 49 milliseconds.
+Thread 10 Searched key number 700000 at 175 milliseconds.
+Thread 0 Found decrypt key 9559 producing message: Johns Hopkins afraid of the big bad wolf? at 405 milliseconds.
+Thread 7 Searched key number 500000 at 421 milliseconds.
+Thread 4 Searched key number 300000 at 498 milliseconds.
+Thread 14 Searched key number 1000000 at 527 milliseconds.
+Thread 11 Searched key number 800000 at 610 milliseconds.
+Thread 1 Searched key number 100000 at 610 milliseconds.
+Thread 8 Searched key number 600000 at 713 milliseconds.
+Thread 5 Searched key number 400000 at 793 milliseconds.
+Thread 12 Searched key number 900000 at 882 milliseconds.
+Thread 2 Searched key number 200000 at 892 milliseconds.
+Final elapsed time: 968
+Generated secret key: 138497
+Thread 0 Searched key number 0 at 46 milliseconds.
+Thread 3 Searched key number 200000 at 262 milliseconds.
+Thread 6 Searched key number 400000 at 327 milliseconds.
+Thread 2 Found decrypt key 138497 producing message: Johns Hopkins afraid of the big bad wolf? at 336 milliseconds.
+Thread 9 Searched key number 600000 at 360 milliseconds.
+Thread 12 Searched key number 800000 at 398 milliseconds.
+Thread 15 Searched key number 1000000 at 475 milliseconds.
+Thread 1 Searched key number 100000 at 647 milliseconds.
+Thread 10 Searched key number 700000 at 715 milliseconds.
+Thread 4 Searched key number 300000 at 726 milliseconds.
+Thread 7 Searched key number 500000 at 757 milliseconds.
+Thread 13 Searched key number 900000 at 834 milliseconds.
+Final elapsed time: 976

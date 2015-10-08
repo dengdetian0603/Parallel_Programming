@@ -1,0 +1,16 @@
+Elapsed time: 11300ms
+Elapsed time: 11306ms
+Elapsed time: 11307ms
+Elapsed time: 11309ms
+Elapsed time: 11309ms
+Elapsed time: 11312ms
+Elapsed time: 11315ms
+Elapsed time: 11420ms
+Elapsed time: 12937ms
+Elapsed time: 13448ms
+Elapsed time: 13257ms
+Elapsed time: 13463ms
+Elapsed time: 13766ms
+Elapsed time: 13785ms
+Elapsed time: 13808ms
+Elapsed time: 13815ms
